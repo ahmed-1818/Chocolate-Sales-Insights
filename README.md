@@ -1,13 +1,8 @@
 # Chocolate-Sales-Insights
 
 
----
-
 ### 📝 **Project Description (for README.md / GitHub summary)**
 
-Here’s a clean and professional description you can use:
-
----
 
 > ## 🍫 Chocolate Sales Analysis & Prediction
 > This project involves exploratory data analysis (EDA), feature engineering, and machine learning modeling on a chocolate sales dataset. The goal is to predict whether sales revenue will be high or low based on features like product type, region, price, discount, and more.
